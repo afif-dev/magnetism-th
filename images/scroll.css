@@ -1,0 +1,23 @@
+
+body {
+scrollbar-face-color:18699E;
+scrollbar-highlight-color:452677;
+scrollbar-3dlight-color:6299BD;
+scrollbar-darkshadow-color:4A9ED5;
+scrollbar-shadow-color:000000;
+scrollbar-arrow-color:E5E0CA;
+scrollbar-track-color:0A2A46;
+}
+
+.wire_belt {
+	display:none;
+}
+
+.conveyor_belt {
+	display:none;
+}
+
+
+.wire_mesh {
+	display:none;
+}
