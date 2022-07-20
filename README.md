@@ -1,8 +1,8 @@
 # magnetism-th
-Thailand website for https://www.magnetism.com.my/
+Thailand website https://magnetism-th.netlify.app/ for https://www.magnetism.com.my/ 
 
 ### wget command
-Copy original website to your local directory
+Copy or clone original website to your local directory
 ```
 wget --recursive --no-clobber --page-requisites --html-extension --convert-links --restrict-file-names=windows --domains magnetism.com.my --no-parent www.magnetism.com.my
 ```
